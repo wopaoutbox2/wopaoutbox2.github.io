@@ -1,7 +1,7 @@
 title:            WOPA Blog
 description:      WOPA Blog.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:             http://wopaoutbox.github.io
+url:             http://wopaoutbox2.github.io
 disqus_shortname: wopaoutbox
 
 # Owner/author information
@@ -9,11 +9,11 @@ owner:
   name:           Wopa Outbox
   avatar:         bio-photo.jpg
   bio:            Inspiring the next female technologists
-  email:          
+  email:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: 
+  twitter:
   facebook:
-  github: wopaoutbox
+  github: wopaoutbox2
   stackoverflow:
   linkedin:
   instagram:
@@ -27,7 +27,7 @@ owner:
   google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: 
+google_analytics:
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -37,7 +37,7 @@ bing_verify:
 links:
   - title: Posts
     url: /posts/
-  
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Africa/Kampala
